@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 Hello there! I'm Vikram Ganesh, a passionate software developer with a knack for building innovative solutions. I specialize in Data Science and I'm always eager to learn and explore new technologies.
 
 <!--
 **VikramGanesh06/VikramGanesh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
